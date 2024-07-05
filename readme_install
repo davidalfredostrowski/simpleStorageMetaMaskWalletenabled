@@ -413,3 +413,13 @@ ubuntu@ip-172-31-27-33:~/simple$
 
 
 
+ref:
+
+acccount -> settings -> reset 'nonce' or account if your are getting (inexplicable revert errors! ) 
+https://medium.com/@thelasthash/solved-nonce-too-high-error-with-metamask-and-hardhat-adc66f092cd
+
+
+
+
+
+
